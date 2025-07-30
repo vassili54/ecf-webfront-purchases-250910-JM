@@ -1,5 +1,7 @@
 # ecf-webfront-purchases
 
+![Logo CRM](./www/img/logo-centre-de-readaptation-de-mulhouse-colors.svg)
+
 1. Forker le dépôt sur votre compte Github
     - Lors du fork , ajoutez la date de l'évaluation et vos initiales au nom du dépôt
     - Format attendu : `ecf-webfront-purchases-MD-2025-07-31`
