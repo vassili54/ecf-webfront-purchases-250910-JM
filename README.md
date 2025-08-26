@@ -98,7 +98,7 @@ Recherchez une esthétique épurée : alignement cohérent des éléments, espac
 Évitez les éléments décoratifs superflus ou les mises en page trop complexes. L'objectif est la simplicité et l'efficacité.
 
 
-# 5. Recommandations
+# 5. Recommandations HTML / CSS
 
 Commencez par structurer la page HTML avant de passer à la mise en forme CSS.
 
@@ -110,18 +110,17 @@ Durant l'examen, l'évaluateur peut vous accompagner pour les opérations GIT.
 
 ---
 
-# 6. BONUS (facultatif)
+# 6. Contrôles de saisies
 
-> Aucun impact sur la note finale
 
-Si vous avez terminé et qu'il vous reste du temps, vous pouvez ajouter quelques fonctionnalités au formulaire en utilisant JavaScript.
+Ajoutez quelques fonctionnalités au formulaire en utilisant JavaScript.
 
 ### Ajouter un évènement lorsque le formulaire est soumis: 
 
 1. Annuler le comportement par défaut avec `preventDefault()`
 2. Vérifier que le nom et prénom contiennent au moins 3 caractères
 3. Vérifier que la date de livraison est au moins 8 jours dans le futur
-4. Calculer le total de la commande et l'afficher sous le formulaire dans une balise `<aside>`
+4. Calculer le montant total de la commande et l'afficher sous le formulaire dans une balise `<aside>`
 5. Si le montant de la commande est supérieur à 1000€, afficher le message "*[NOM PRENOM], Votre demande a été transmise au service financier pour validation*", Sinon afficher "*Merci [NOM PRENOM], votre demande a été transmise au service des achats*"
 
 En cas d'erreur, afficher un message approprié sous le formulaire. Ce message doit aparaître avec la couleur `--crm-alert` (couleur de texte OU couleur d'arrière plan, au choix).
