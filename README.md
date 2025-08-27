@@ -86,7 +86,7 @@ Durant l'examen, l'évaluateur peut vous accompagner pour les opérations GIT.
 
 # 5. Contrôles de saisies
 
-Ajoutez quelques fonctionnalités au formulaire en utilisant JavaScript.
+Ajoutez quelques fonctionnalités au formulaire en utilisant JavaScript (avec  ou sans framework, à votre guise).
 
 ### Ajouter un évènement lorsque le formulaire est soumis: 
 
